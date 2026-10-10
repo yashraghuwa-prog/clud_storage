@@ -27,7 +27,7 @@ export type StoredFile = {
 export type FileShare = {
   id: string;
   owner_id: string;
-  file_id: string; // Added to fix TS2339
+  file_id: string; // Required by App.tsx
   recipient_email: string;
   file_name: string;
   storage_path: string;
