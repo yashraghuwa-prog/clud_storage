@@ -108,3 +108,7 @@ secure-cloud-storage/
 ## Development
 
 Contributions and suggestions for improving this project are welcome.
+
+## Development
+
+ suggestions for improving this project are welcome.
