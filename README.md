@@ -104,3 +104,7 @@ secure-cloud-storage/
 ├── package.json
 └── README.md
 ```
+
+## Development
+
+Contributions and suggestions for improving this project are welcome.
